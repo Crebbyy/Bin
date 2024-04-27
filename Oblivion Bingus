@@ -46,7 +46,7 @@
         "name": "Join the Blades"
     },
     {
-        "name": "Visit all Wayshrines"
+        "name": "Visit 9 different types of Wayshrines"
     },
     {
         "name": "Escape Prison"
@@ -97,7 +97,7 @@
         "name": "Kill 3 Friendly NPCs"
     },
     {
-        "name": "Finish the Tutorial"
+        "32": "Finish the Tutorial"
     },
     {
         "name": "Collect 5 Nirnroot"
@@ -146,5 +146,26 @@
     },
     {
         "name": "Speak to the Count(ess) of 5 different cities"
+    },
+    {
+        "name": "Reach Level 10"
+    },
+    {
+        "name": "Have 1 Skill at 50"
+    },
+    {
+        "name": "Obtain 10 Conjuration Spells"
+    },
+    {
+        "name": "Purchase a horse"
+    },
+    {
+        "name": "Travel to all 15 Daedric Shrines"
+    },
+    {
+        "name": "Finish Zero Visibility"
+    },
+    {
+        "name": "Finish the Ghost Ship of Anvil"
     }
 ]
