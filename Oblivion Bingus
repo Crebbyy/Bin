@@ -16,7 +16,7 @@
         "name": "Kill 5 deer"
     },
     {
-        "name": "Finish each Mages Guild recommendation"
+        "name": "Get 3 Mages Guild recommendations"
     },
     {
         "name": "Finish 5 quests"
@@ -67,13 +67,13 @@
         "name": "Get 5 Unique keys"
     },
     {
-        "name": "Finish Whodunnit"
+        "name": "Finish No Stone Unturned"
     },
     {
         "name": "Obtain 1 Aylied Statues"
     },
     {
-        "name": "Finish 2 Guilds"
+        "name": "Finish Order of the Virtuous Blood"
     },
     {
         "name": "Kill Jeelius"
@@ -167,5 +167,20 @@
     },
     {
         "name": "Finish the Ghost Ship of Anvil"
+    },
+    {
+        "name": "Reach Defender rank in the Fighters Guild"
+    },
+    {
+        "name": "Reach Prowler rank in the Theives Guild"
+    },
+    {
+        "name": "Reach Assassin rank in the Dark Brotherhood"
+    },
+    {
+        "name": "Reach Gladiator rank in The Arena"
+    },
+    {
+        "name": "Obtain the Debaser"
     }
 ]
