@@ -1,6 +1,4 @@
-#Bingo List
-
-#DO NOT USE CURLY QUOTES
+#Bingo List. Please keep format and make sure not to use curly quotes.
 
 [
     {
@@ -28,7 +26,7 @@
         "name": "Obtain 10 Sweet Rolls"
     },
     {
-        "name": "Finish the Elven Maiden"
+        "name": "Finish the Elven Maiden (TG)"
     },
     {
         "name": "Kill Pumpkin"
@@ -61,7 +59,7 @@
         "name": "Finish Go Fish"
     },
     {
-        "name": "Finish A Watery Grave"
+        "name": "Finish A Watery Grave (DB)"
     },
     {
         "name": "Get 5 Unique keys"
@@ -121,7 +119,7 @@
         "name": "Obtain 10 Restoration Spells"
     },
     {
-        "name": "Obtain 10 Unique Items"
+        "name": "Obtain 10 unique weapons"
     },
     {
         "name": "Obtain 10 Alteration Spells"
@@ -142,7 +140,7 @@
         "name": "Reach max disposition with a guard"
     },
     {
-        "name": "Complete 10 Quests"
+        "name": "Finish 10 Quests"
     },
     {
         "name": "Speak to the Count(ess) of 5 different cities"
@@ -182,5 +180,40 @@
     },
     {
         "name": "Obtain the Debaser"
+    },
+    {
+        "name": "Finish Lifting the Vale"
+    },
+    {
+        "name": "Kill Umbra"
+    },
+    {
+        "name": "Fence 300 gold"
+    },
+    {
+        "name": "Travel to Dive Rock"
+    },
+        "name": "Ride the Unicorn"
+    },
+    {
+        "name": "Obtain Fin Gleam"
+    },
+    {
+        "name": "Finish Through a Nightmare, Darkly"
+    },
+    {
+        "name": "Join the Fighters, Mages, and Thieves Guilds"
+    },
+    {
+        "name": "Obtain 5 different editions of the Black Horse Courier"
+    },
+    {
+        "name": "Finish Paranoia"
+    },
+    {
+        "name": "Retrieve the Thornblade or the Staff of Indarys"
+    },
+    {
+        "name": "Save Jeelius (MQ)"
     }
 ]
